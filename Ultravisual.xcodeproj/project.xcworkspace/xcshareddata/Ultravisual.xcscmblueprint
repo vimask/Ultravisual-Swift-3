@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "91313BD621C213C977F2926BE0537608DA8E1A5E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "91313BD621C213C977F2926BE0537608DA8E1A5E" : 9223372036854775807,
+    "FBD9085F46D4B60FE85FEE1DE5FB1A15ACFDC9E8" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5232D805-7B92-407E-A3F9-5C2FCF688631",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "91313BD621C213C977F2926BE0537608DA8E1A5E" : "Ultravisual-Swift-3\/",
+    "FBD9085F46D4B60FE85FEE1DE5FB1A15ACFDC9E8" : "Ultravisual"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Ultravisual",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Ultravisual.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/vimask\/Ultravisual-Swift-3.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "91313BD621C213C977F2926BE0537608DA8E1A5E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/micpringle\/Ultravisual.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FBD9085F46D4B60FE85FEE1DE5FB1A15ACFDC9E8"
+    }
+  ]
+}
